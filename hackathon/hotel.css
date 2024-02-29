@@ -1,3 +1,24 @@
 h1{
     text-align: center;
 }
+nav{
+    text-align: center;
+}
+#home{
+    text-align: center;
+}
+#rooms{
+    text-align: center;
+}
+.room{
+    text-align: center;
+}
+#booking{
+    text-align: center;
+}
+#contact{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
